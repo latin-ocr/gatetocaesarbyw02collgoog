@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gatetocaesarbyw02collgoog_0067.png"; bbox 0 0 2710 3750; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1241 499 1286 1079">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1241 499 1286 1079">
+     <span class='ocr_line' id='line_1_1' title="bbox 1265 499 1286 1079; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1265 499 1286 1079; x_wconf 54' lang='lat' dir='ltr'>Qmosgusoaemaew&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1241 508 1261 1079; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 1241 508 1261 1079; x_wconf 47' lang='lat' dir='ltr'>*Quamnam-”mam</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1042 629 1086 872">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1042 629 1086 872">
+     <span class='ocr_line' id='line_1_3' title="bbox 1042 629 1086 872; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 1042 629 1086 724; x_wconf 71' lang='grc' dir='ltr'>-Ῑις</span> <span class='ocrx_word' id='word_1_4' title='bbox 1042 751 1073 872; x_wconf 69' lang='grc' dir='ltr'>’σε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 974 292 1034 1164">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 974 292 1034 1164">
+     <span class='ocr_line' id='line_1_4' title="bbox 974 292 1034 1164; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 974 292 977 296; x_wconf 89' lang='grc'>.</span> <span class='ocrx_word' id='word_1_6' title='bbox 976 376 1031 519; x_wconf 66' lang='grc' dir='ltr'>ΞΟ</span> <span class='ocrx_word' id='word_1_7' title='bbox 978 555 1034 1164; x_wconf 71' lang='lat' dir='ltr'><strong>MDIVdIAIVD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 327 1750 334 2695">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 327 1750 334 2695">
+     <span class='ocr_line' id='line_1_5' title="bbox 327 1750 334 2695; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 327 1750 334 2695; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1360 3750">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1360 3750">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1360 3750; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1360 3750; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
